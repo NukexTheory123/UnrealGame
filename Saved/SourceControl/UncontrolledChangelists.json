@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/Animations/Attempt1.uasset",
+				"C:/Users/Luke/Documents/Unreal Projects/Animations/Content/Animations/TestCharacter.uasset"
+			]
+		}
+	]
+}
